@@ -1,7 +1,0 @@
-/home/charl/projects/guessing_game/target/debug/deps/cfg_if-eb64849ee30ef45a.rmeta: /home/charl/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/charl/projects/guessing_game/target/debug/deps/libcfg_if-eb64849ee30ef45a.rlib: /home/charl/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/charl/projects/guessing_game/target/debug/deps/cfg_if-eb64849ee30ef45a.d: /home/charl/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/charl/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs:
