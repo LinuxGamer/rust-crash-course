@@ -54,7 +54,7 @@ fn main() {
 This  is a function called main. All the code for the function go inside the squigly brackets.
 
 ```rust
-    println!("Hello, world!");
+println!("Hello, world!");
 ```
 This is the print command, the `!` tells us that it is text. The `;` on the end acts like it does in JavaScript, basically saying that the command has finished, and to move on.
 
