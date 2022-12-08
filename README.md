@@ -6,3 +6,6 @@ This is a crash course in the Rust programming language, I am learning this in p
 
 ## Foreward
 I started learning Rust thanks to [Francesco Ciull]() and his first livestream in the [Rust From Zero]() series on his [YouTube channel]() on Thursday 8th December 2022.
+
+### Chapter 1 - Installing and Hello World
+To get started we have to do a little bit of installing. To install on Windows is a bit harder so for this course, I'll be using Linux, you can follow these steps on Windows using WSL or by following the Windows install instructions in the book used.
