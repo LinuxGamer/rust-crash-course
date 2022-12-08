@@ -30,4 +30,6 @@ $ rustup update
 $ rustup self uninstall
 ```
 
+For local documentation run `rustup doc`.
+
 ##
