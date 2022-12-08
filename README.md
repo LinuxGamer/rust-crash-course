@@ -14,9 +14,17 @@ To install Rust, we use a tool called `rustup`.
     
 To install `rustup`, 
 ```bash
-curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh
+$ curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh
 ```
 This command downloads a script and starts the installation of the `rustup` tool, which installs the latest stable version of Rust. Password may be needed. If it was successful, this will appear:
 ```bash
 Rust is installed now. Great!
+```
+
+To update and uninstall rustup, use the following commands:
+```bash
+$ rustup update
+```
+```bash
+$ rustup self uninstall
 ```
